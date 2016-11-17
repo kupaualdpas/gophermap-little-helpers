@@ -1,6 +1,12 @@
 /* file: ZeichenketteSuchen.c
  *
  * Copyright (C) am 6.November2016 Stefan Straubinger
+ * This program is free software. Use it only under the acceptance that
+ * ************* IT COMES WITH NO WARRANTY WHATSOEVER *****************
+ * You can redistribute and/or modify it under the TERMS AND CONDITIONS of the
+ * Do What The Fuck You Want To Public License, Version 2, as 
+ * published by Sam Hocevar. See the COPYING file or http://www.wtfpl.net/ 
+ * for more details.
  *
  * A simple "Find and Replace" piece of code.
  * Usefull for changing IP_address in a gophermap file.
